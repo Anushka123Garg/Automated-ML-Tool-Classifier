@@ -1,5 +1,4 @@
 # Project Title
-*
 Development of an automated ML-based tool, a comprehensive Python script for classification problems that will run on any given input data matrix.
 Input matrix Format: Standard Feature x Instance matrix (.csv) file.
 Label_column should be at the last of the matrix.
