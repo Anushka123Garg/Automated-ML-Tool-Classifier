@@ -4,7 +4,6 @@ Input matrix Format: Standard Feature x Instance matrix (.csv) file.
 Label_column should be at the last of the matrix.
 
 ## Table of Contents
-**
 1. Installing Dependencies
 2. Getting Started
 3. Data Loading
